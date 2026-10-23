@@ -20,6 +20,7 @@
 - **tool_faucet** (`img/tool_faucet.webp`) — автор: Zulfugar Karimov. Страница: https://www.pexels.com/photo/modern-chrome-kitchen-faucet-with-running-water-34295401/. Лицензия: Pexels License (https://www.pexels.com/license/). Автор подтверждён: по заголовку страницы фото на Pexels («Photo by Zulfugar Karimov»), 2026-10-23.
 - **tool_sink** (`img/tool_sink.webp`) — автор: ready made. Страница: https://www.pexels.com/photo/stainless-steel-faucet-3847553/. Лицензия: Pexels License (https://www.pexels.com/license/). Правка: обрезан снизу (убрана надпись на сливе). Автор подтверждён: по заголовку страницы фото на Pexels («Photo by ready made»), 2026-10-23.
 - **tool_bench** (`img/tool_bench.webp`) — автор: suntorn somtong. Страница: https://www.pexels.com/photo/flat-lay-photography-of-hand-tools-1029243/. Лицензия: Pexels License (https://www.pexels.com/license/). Автор подтверждён: по заголовку страницы фото на Pexels («Photo by suntorn somtong»), 2026-10-23.
+- **tool_wrench** (`img/tool_wrench.webp`) — автор: Kindel Media. Страница: https://www.pexels.com/photo/close-up-photo-of-plumbers-wrench-on-wooden-surface-8488060/. Лицензия: Pexels License (https://www.pexels.com/license/). Правка: обрезан по высоте. Автор подтверждён: по заголовку страницы фото на Pexels («Photo by Kindel Media»), 2026-10-23.
 
 Остальная графика (фоны, иллюстрации-заглушки) — SVG, сгенерированные скриптом generator/build.py.
 
